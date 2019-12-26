@@ -1,0 +1,15 @@
+250|155399|non monotone fixpoint iterations to resolve second order effects|1996|1336737:Alfons Geser:36,1331639:Gerald Lüttgen:49,1330417:Jens Knoop:54,1324292:Bernhard Steffen:157,1348910:Oliver Rüthing:22|1319586:CC:376
+100|155399|non monotone fixpoint iterations to resolve second order effects|1996|1336737:Alfons Geser:36,1331639:Gerald Lüttgen:49,1330417:Jens Knoop:54,1324292:Bernhard Steffen:157,1348910:Oliver Rüthing:22|1319586:CC:376
+22|155399|non monotone fixpoint iterations to resolve second order effects|1996|1336737:Alfons Geser:36,1331639:Gerald Lüttgen:49,1330417:Jens Knoop:54,1324292:Bernhard Steffen:157,1348910:Oliver Rüthing:22|1319586:CC:376
+50|155399|non monotone fixpoint iterations to resolve second order effects|1996|1336737:Alfons Geser:36,1331639:Gerald Lüttgen:49,1330417:Jens Knoop:54,1324292:Bernhard Steffen:157,1348910:Oliver Rüthing:22|1319586:CC:376	
+25|155387|increasing the applicability of scalar replacement|2004|1367390:Byoungro So:14,1328815:Mary W. Hall:62|1319586:CC:376
+22|155388|implementing 2dt on a multiprocessor|1994|1324666:Assaf Schuster:130,1328872:Yosi Ben-Asher:62,1325068:Reinhard Wilhelm:114,1325214:Gudula Rünger:109|1319586:CC:376
+50|155389|xml goes native run time representations for xtatic|2005|1378792:Michael Y. Levin:11,1325745:Benjamin C. Pierce:96,1343907:Alan Schmitt:26,1438916:Vladimir Gapeyev:6|1319586:CC:376
+5|155390|starlet an affix based compiler compiler designed as a logic programming system|1990|1326628:Jean-François Boulicaut:82,1414981:Jean Beney:7|1319586:CC:376
+101|155391|compiler construction using lotos nt|2002|1365164:Frédéric Lang:15,1335780:Radu Mateescu:38,1337412:Hubert Garavel:35|1319586:CC:376
+2|155392|processing array statements and procedure interfaces in the prepare high performance fortran compiler|1994|1331815:Siegfried Benkner:48,1331018:Peter Brezany:51,1329461:Hans P. Zima:59|1319586:CC:376
+99|155393|specification of compilers as abstract data type representations|1980|1333051:Marie-Claude Gaudel:44|1322834:Semantics-Directed Compiler Generation:17
+105|155394|interprocedural constant propagation using dependence graphs and a data flow model|1994|1326840:David Binkley:79|1319586:CC:376
+12|155395|fast escape analysis and stack allocation for object based programs|2000|1341411:David Gay:29,1368913:Bjarne Steensgaard:14|1319586:CC:376
+89|155396|a programmable ansi c transformation engine|1999|1571928:Maarten Boekhold:2,1394999:Ireneusz Karkowski:9,1324755:Henk Corporaal:126,1394827:Andrea G. M. Cilio:9|1319586:CC:376
+90|155397|a portable and optimizing back end for the sml nj compiler|1994|1339181:John H. Reppy:32,1881796:Florent Guillame:1,1383976:Lal George:10|1319586:CC:376
